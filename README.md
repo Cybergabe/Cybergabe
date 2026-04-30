@@ -1,5 +1,5 @@
 # 👋 Hello, I'm **Ibikunle Gabriel**. Welcome to my GitHub profile.
-I am a cybersecurity professional with a keen interest in penentration testing data privacy, malware analysis, and neywork analysis. I'm deeply committed to solving complex problems, exploring new technologies, building pragmatic projects and sharing my knowledge of the beautiful and expansive world of data.
+I am a cybersecurity professional with a keen interest in UNIX/LINUX engineering and adminstration, penetration testing, data privacy, malware analysis, and network analysis. I'm deeply committed to solving complex problems, exploring new technologies, building pragmatic projects and sharing my knowledge of the beautiful and expansive world of information security.
 
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
