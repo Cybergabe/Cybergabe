@@ -1,17 +1,17 @@
-# 👋 Hello, I'm **Ibikunle Gabriel**. Welcome to my GitHub profile.
+# 👋 Hello, I'm **Cybergabe**. Welcome to my GitHub profile.
 I am a cybersecurity professional with a keen interest in UNIX/LINUX engineering and adminstration, penetration testing, data privacy, malware analysis, and network analysis. I'm deeply committed to solving complex problems, exploring new technologies, building pragmatic projects and sharing my knowledge of the beautiful and expansive world of information security.
 
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
+- Autmation with Cron and Airflow
+- PowerShell
+- Bash scripting
+- Python scripting
 - Database administration with SQL
 - Machine Learning
 - Deep Learning
-- Data Visualization
-- Qualitative data analysis
-- Financial modeling
-- Git
-- Time series forecasting
-- PL-SEM
+- Data Visualization with Metabase
+- Git and Github
 - Markdown
 ## 🛠️ **Tools**
 Here are the data science and data analytics tools I use efficiently
@@ -67,8 +67,8 @@ Here are the data science and data analytics tools I use efficiently
 
 ##  💫 **About Me**
 
-- 🔭 I’m currently working on Deep Learning Models and content creation for tech enthusiasts
-- 🌱 I’m currently reading buisness related books
-- 💬 Ask me about Machine Learning
-- 📫 How to reach me: [ibikunlesgabriel@gmail.com](mailto:ibikunlesgabriel@gmail.com)
+- 🔭 I’m currently working on automation with Cron
+- 🌱 I’m currently reading Just for fun by Linus Torvalds, creator of Linux
+- 💬 Ask me about Linux OS
+- 📫 How to reach me: [ibikunlesgabriel@proton.me](mailto:ibikunlesgabriel@proton.me)
 - ⚡ Fun fact about me: I love to sightsee in my spare time 
