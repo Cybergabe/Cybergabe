@@ -35,19 +35,8 @@ Here are the data science and data analytics tools I use efficiently
 
   ## 👨‍💻 **Projects**
   Here are some of my projects
-  - <b> ML Classification Task </b>: [Prediction of treatment discontinuation castration resistance prostate cancer](https://github.com/Kunleiky/prediction-of-treatment-discontinuation-for-metastatic-castration-resistance-prostate-cancer)
-  - <b> Stock Time Series Forecasting </b>: [Time Series Forecasting - Reddit Gamestop Data](https://github.com/Kunleiky/TIME-SERIES-FORECASTING-REDDIT-GAMESTOP-DATA)
-  - <b> Data Anonymizarion </b>: [Data Anonymization in Python](https://github.com/Kunleiky/Data-Anonymization-in-Python)
-  - <b> Data Visualization in R </b>: [Data Meets Art: A Waffle Visualization](https://github.com/Kunleiky/Data-Meet-Art_A-Waffle-Visualization)
-  - <b> Exploratory Data Analysis </b>: [EDA - House Prices Dataset](https://github.com/Kunleiky/EDA-House-Prices-Dataset)
-  - <b> SQL in PostgreSQL</b>: [Top Secret Database](https://github.com/Kunleiky/TOP-SECRET-DATABASE)
-  -  <b> Unsupervised ML Task </b>: [Anomaly Detection](https://github.com/Kunleiky/anomaly-detection)
-  -  <b> AI/ML Task </b>: [Air Quality Index](https://github.com/Kunleiky/AI_ML--AIR-QUALITY-INDEX)
-  -  <b> Retail Sales Forecasting </b>: [Sales Forecasting - A Focus on the Retail Industry](https://github.com/Kunleiky/Sales-Forecasting-A-Focus-on-the-Retail-Industry)
-  -  <b> Exploratory Data Analysis </b>: [EDA - Christmas Sales and Trends](https://github.com/Kunleiky/EDA_Christmas_sales_and_trends)
-  -  <b> R Markdown </b>: [World Energy](https://github.com/Kunleiky/World_Energy)
-  -  <b> Data Visualization </b>: [Nightingale Rose Chart](https://github.com/Kunleiky/NIGHTINGALE-ROSE-CHART)
-  -  <b> Survey Data Analysis </b>: [Survey Data Analysis](https://github.com/Kunleiky/SURVEY-DATA-ANALYSIS-1)
+   - <b> File Monitoring </b>: [File Monitoring with Inotify](Linklater)
+   - <b> Database Administraation </b>: [Database Administraation with Sqite in Linux](Linklater)
 
 
 ## 👨‍💻 **Articles**
@@ -68,7 +57,7 @@ Here are the data science and data analytics tools I use efficiently
 ##  💫 **About Me**
 
 - 🔭 I’m currently working on automation with Cron
-- 🌱 I’m currently reading Just for fun by Linus Torvalds, creator of Linux
+- 🌱 I’m currently reading Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, creator of Linux
 - 💬 Ask me about Linux OS
 - 📫 How to reach me: [ibikunlesgabriel@proton.me](mailto:ibikunlesgabriel@proton.me)
 - ⚡ Fun fact about me: I love to sightsee in my spare time 
