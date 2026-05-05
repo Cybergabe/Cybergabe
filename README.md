@@ -36,7 +36,8 @@ Here are the data science and data analytics tools I use efficiently
   ## 👨‍💻 **Projects**
   Here are some of my projects
    - <b> File Monitoring </b>: [File Monitoring with Inotify](Linklater)
-   - <b> Database Administraation </b>: [Database Administraation with Sqite in Linux](Linklater)
+   - <b> Database Administration </b>: [Database Administraation with SQLite in Linux](Linklater)
+   - <b> Job Scheduling </b>: [Server Monitoring with Cron](Linklater)
 
 
 ## 👨‍💻 **Articles**
@@ -59,5 +60,6 @@ Here are the data science and data analytics tools I use efficiently
 - 🔭 I’m currently working on automation with Cron
 - 🌱 I’m currently reading Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, creator of Linux
 - 💬 Ask me about Linux OS
+- (emoji here) My favorite Linux book: Linux Bible by Christopher Negus
 - 📫 How to reach me: [ibikunlesgabriel@proton.me](mailto:ibikunlesgabriel@proton.me)
 - ⚡ Fun fact about me: I love to sightsee in my spare time 
