@@ -36,7 +36,7 @@ Here are the data science and data analytics tools I use efficiently
   ## 👨‍💻 **Projects**
   Here are some of my projects
    - <b> File Monitoring </b>: [File Monitoring with Inotify](Linklater)
-   - <b> Database Administration </b>: [Database Administraation with SQLite in Linux](Linklater)
+   - <b> Database Administration </b>: [Database Administration with SQLite in Linux](Linklater)
    - <b> Job Scheduling </b>: [Server Monitoring with Cron](Linklater)
 
 
