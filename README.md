@@ -32,6 +32,7 @@ Here are the data science and data analytics tools I use efficiently
    - <b> File Monitoring </b>: [File Monitoring with Inotify](Linklater)
    - <b> Database Administration </b>: [Database Administration with SQLite in Linux](Linklater)
    - <b> Job Scheduling </b>: [Server Monitoring with Cron](Linklater)
+      - <b> SQL Injection with SQLmap </b>: [Server Monitoring with Cron](Linklater)
 
 
 ## 👨‍💻 **Articles**
