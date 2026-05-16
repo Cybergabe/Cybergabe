@@ -30,10 +30,13 @@ Here are the data science and data analytics tools I use efficiently
   ## 👨‍💻 **Projects**
   Here are some of my projects
    - <b> File Monitoring </b>: [File Monitoring with Inotify](Linklater)
+   - <b> Osint with Sherlock </b>: [Osint with Sherlock](Linklater)
    - <b> Database Administration </b>: [Database Administration with SQLite in Linux](Linklater)
    - <b> Job Scheduling </b>: [Server Monitoring with Cron](Linklater)
-      - <b> SQL Injection with SQLmap </b>: [Server Monitoring with Cron](Linklater)
-
+  - <b> SQL Injection with Python </b>: [SQL Injection with Python](Linklater)
+  - <b> Port Scanning with Python </b>: [Port Scanning with Python](Linklater)
+  -  <b> Process Management in Linux </b>: [Process Management in Linux](Linklater)
+   -  <b> Pen Testing on MySQL </b>: [Process Management in Linux](Linklater)
 
 ## 👨‍💻 **Articles**
   Here are some of my articles
@@ -56,6 +59,6 @@ Here are the data science and data analytics tools I use efficiently
 - 👩‍💻 I’m currently learnign how to use Docker and RedHat/CentOS/Fedora OS
 - 🌱 I’m currently reading Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, creator of Linux
 - 💬 Ask me about Linux OS
-- (emoji here) My favorite Linux book: Linux Bible by Christopher Negus
+- 📘 My favorite Linux book: Linux Bible by Christopher Negus
 - 📫 How to reach me: [ibikunlegabriel@proton.me](mailto:ibikunlegabriel@proton.me)
 - ⚡ Fun fact about me: I love to sightsee in my spare time 
