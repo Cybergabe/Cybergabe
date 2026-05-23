@@ -14,7 +14,7 @@ Here are my key skills and competencies
 - Git and Github
 - Markdown
 ## 🛠️ **Tools**
-Here are the data science and data analytics tools I use efficiently
+Here are the Linux and cyberseurity tools I use efficiently
 
   <div align="center"> 
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=ffdd54" />
