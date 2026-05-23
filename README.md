@@ -3,7 +3,7 @@ I am a cybersecurity professional with a keen interest in UNIX/LINUX engineering
 
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
-- Autmation with Cron and Airflow
+- Automation with Cron and Airflow
 - PowerShell
 - Bash scripting
 - Python scripting
