@@ -24,6 +24,11 @@ Here are the data science and data analytics tools I use efficiently
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cron-4B8BBE?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
 </div>
 
 
