@@ -55,10 +55,11 @@ Here are the data science and data analytics tools I use efficiently
 
 ##  💫 **About Me**
 
-- 🔭 I’m currently working on automation with Cron
-- 👩‍💻 I’m currently learnign how to use Docker and RedHat/CentOS/Fedora OS
+- 🔭 I’m currently working on automation with Cron.
+- 👨🏻‍🎓 I’m currently working to get different certifications in Linux administration and Cybersecurity.
+- 👩‍💻 I’m currently learnign how to use Docker and RedHat/CentOS/Fedora OS.
 - 🌱 I’m currently reading Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, creator of Linux
-- 💬 Ask me about Linux OS
+- 💬 Ask me about Linux OS.
 - 📘 My favorite Linux book: Linux Bible by Christopher Negus
 - 📫 How to reach me: [ibikunlegabriel@proton.me](mailto:ibikunlegabriel@proton.me)
-- ⚡ Fun fact about me: I love to sightsee in my spare time 
+- ⚡ Fun fact about me: I love to sightsee in my spare time.
