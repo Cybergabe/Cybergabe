@@ -65,7 +65,7 @@ Here are the Linux and cyberseurity tools I use efficiently
 
 - 🔭 I’m currently working on automation with Cron.
 - 👨🏻‍🎓 I’m currently working to get different certifications in Linux administration and Cybersecurity.
-- 👩‍💻 I’m currently learnign how to use Docker and RedHat/CentOS/Fedora OS.
+- 👩‍💻 I’m currently learning how to use Docker and RedHat/CentOS/Fedora OS.
 - 🌱 I’m currently reading Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, creator of Linux
 - 💬 Ask me about Linux OS.
 - 📘 My favorite Linux book: Linux Bible by Christopher Negus
