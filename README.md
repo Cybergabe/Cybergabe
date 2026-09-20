@@ -70,4 +70,5 @@ Here are the Linux and cyberseurity tools I use efficiently
 - 💬 Ask me about Linux OS.
 - 📘 My favorite Linux book: Linux Bible by Christopher Negus
 - 📫 How to reach me: [ibikunlegabriel@proton.me](mailto:ibikunlegabriel@proton.me)
-- ⚡ Fun fact about me: I love to sightsee in my spare time.
+- ⚡ Fun fact about me: I love to sightsee in my spare time. I also love to contribute to open source projects.
+- 👨🏻‍🎓 I am planning to acquire a PGD certificate and MSC certificate in Compute Science.
