@@ -73,5 +73,16 @@ Here are the Linux and cyberseurity tools I use efficiently
 - ⚡ Fun fact about me: I love to sightsee in my spare time. I also love to contribute to open source projects.
 - 👨🏻‍🎓 I am planning to acquire a PGD certificate and MSC certificate in Compute Science.
 
+<!-- This is a comment: GitHub Stats -->
+   [![](https://ghstats.dev/api/card?username=Cybergabe&theme=ocean)](https://github.com/rowkavdev/GitHub-profile-stats)
+   
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Cybergabe&langs_count=4&hide_values=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=Cybergabe&langs_count=4&hide_values=true&theme=catppuccin_latte)
+<!--[![](https://ghstats.dev/api/card?username=ibikunleg&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)  -->
+
+[![](https://ghstats.dev/api/card?username=Cybergabe&theme=ocean&size=compact&compact_count=6)](https://github.com/rowkavdev/GitHub-profile-stats)
+
+<!-- This is a comment: Sparkline -->
+[![](https://ghstats.dev/api/sparkline?username=Cybergabe&theme=ocean&days=30&width=420)](https://github.com/rowkavdev/GitHub-profile-stats)
+
+<!-- This is a comment: Top languages -->
+![Top Languages](https://ghstats.dev/api/langs?username=Cybergabe&theme=ocean&layout=vertical_list)
