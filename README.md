@@ -72,3 +72,6 @@ Here are the Linux and cyberseurity tools I use efficiently
 - 📫 How to reach me: [ibikunlegabriel@proton.me](mailto:ibikunlegabriel@proton.me)
 - ⚡ Fun fact about me: I love to sightsee in my spare time. I also love to contribute to open source projects.
 - 👨🏻‍🎓 I am planning to acquire a PGD certificate and MSC certificate in Compute Science.
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Cybergabe&langs_count=4&hide_values=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=Cybergabe&langs_count=4&hide_values=true&theme=catppuccin_latte)
