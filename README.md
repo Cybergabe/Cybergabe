@@ -7,8 +7,15 @@ Here are my key skills and competencies
 - PowerShell
 - Bash scripting
 - Python scripting
+- Docker
+- Grafana
+- Prometheus
+- Loki
+- Kubernetes
 - Database administration with SQL
 - Machine Learning
+- Gen AI/ LLM
+- Google Cloud Platform 
 - Deep Learning
 - Data Visualization with Metabase
 - Git and Github
