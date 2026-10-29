@@ -4,9 +4,11 @@ I am a cybersecurity professional with a keen interest in UNIX/LINUX engineering
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
 - Automation with Cron and Airflow
+- Open Source Intelligence
 - PowerShell
 - Bash scripting
 - Python scripting
+- Google Hacking
 - Docker
 - Grafana
 - Prometheus
