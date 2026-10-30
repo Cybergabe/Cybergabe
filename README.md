@@ -66,10 +66,6 @@ Here are the Linux and cyberseurity tools I use efficiently
 <a href="https://x.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 
-
-
-
-
 ##  💫 **About Me**
 
 - 🔭 I’m currently working on automation with Cron.
@@ -81,7 +77,10 @@ Here are the Linux and cyberseurity tools I use efficiently
 - 📫 How to reach me: [ibikunlegabriel@proton.me](mailto:ibikunlegabriel@proton.me)
 - ⚡ Fun fact about me: I love to sightsee in my spare time. I also love to contribute to open source projects.
 - 👨🏻‍🎓 I am planning to acquire a PGD certificate and MSC certificate in Compute Science.
+- 👨🏻‍🎓 I am also planning to acquire NVIDIA's Gen AI/LLM certification in the coming month.
 
+
+  <div align="center"> 
 <!-- This is a comment: GitHub Stats -->
    [![](https://ghstats.dev/api/card?username=Cybergabe&theme=ocean)](https://github.com/rowkavdev/GitHub-profile-stats)
    
@@ -95,3 +94,6 @@ Here are the Linux and cyberseurity tools I use efficiently
 
 <!-- This is a comment: Top languages -->
 ![Top Languages](https://ghstats.dev/api/langs?username=Cybergabe&theme=ocean&layout=vertical_list)
+
+</div>
+
